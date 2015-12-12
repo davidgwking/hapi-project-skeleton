@@ -1,0 +1,14 @@
+{
+  "esnext"        : true,
+
+  "bitwise"       : true,
+  "eqeqeq"        : true,
+  "forin"         : true,
+  "noarg"         : true,
+  "undef"         : true,
+  "unused"        : true,
+
+  "node"          : true,
+  "mocha"         : true,
+  "globals"       : {}
+}
